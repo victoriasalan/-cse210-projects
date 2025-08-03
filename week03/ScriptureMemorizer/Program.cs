@@ -26,6 +26,6 @@ class Program
 
         Console.Clear();
         Console.WriteLine(scripture.GetDisplayText());
-        Console.WriteLine("\nGoodbye!");
+        Console.WriteLine("\nGoodbye");
     }
 }
