@@ -2,8 +2,8 @@ using System;
 
 public class Comment
 {
-    public string _nameOfCommenter;
-    public string _textOfComment;
+    public string _nameOfCommenter { get; }
+    public string _textOfComment { get; }
 
     public Comment(string nameOfCommenter, string textOfComment)
     {
