@@ -1,0 +1,6 @@
+950
+SimpleGoal:Test Goal|Testing the goal file function|100|True
+EternalGoal:Attend temple|Attending the temple and do ordinances|200
+ChecklistGoal:Study the scriptures|Study 3 chapters everyday|50|3|3|500
+SimpleGoal:none|trying simple goal|50|False
+ChecklistGoal:Wake up early|Wake up by 7:00 am|10|0|10|100
